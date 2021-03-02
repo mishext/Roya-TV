@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>688873839789-dqfv1765v9nfdag8qv223inm2erelv4k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.688873839789-dqfv1765v9nfdag8qv223inm2erelv4k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUoSWmGO5LVeONnqChSyFfdA4s4rSi0gg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>688873839789</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.RoyaTV</string>
+	<key>PROJECT_ID</key>
+	<string>manager-4a767</string>
+	<key>STORAGE_BUCKET</key>
+	<string>manager-4a767.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:688873839789:ios:9e884d29962f109e30ba24</string>
+	<key>DATABASE_URL</key>
+	<string>https://manager-4a767.firebaseio.com</string>
+</dict>
+</plist>
